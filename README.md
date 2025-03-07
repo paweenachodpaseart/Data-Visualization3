@@ -9,7 +9,7 @@ Education Level: PhD holders have the highest average salary, followed by Master
 Salary: A comparison of the highest and lowest salaries based on education level is provided.
 Experience: Analyzes the relationship between years of experience and salary.
 
-### 2 Images of the Dashboard
+### Images of the Dashboard
 
 Here are images showcasing the Dashboard:
 
