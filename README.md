@@ -4,10 +4,10 @@ Salary Analysis
 ### 📌 Project Overview
 Presents salary data analyzed by education level, gender, and work experience.
 
-Gender: The proportion of males and females is nearly equal (Male: 51.7%, Female: 48.3%).
-Education Level: PhD holders have the highest average salary, followed by Master's and Bachelor's degree holders.
-Salary: A comparison of the highest and lowest salaries based on education level is provided.
-Experience: Analyzes the relationship between years of experience and salary.
+- Gender: The proportion of males and females is nearly equal (Male: 51.7%, Female: 48.3%).
+- Education Level: PhD holders have the highest average salary, followed by Master's and Bachelor's degree holders.
+- Salary: A comparison of the highest and lowest salaries based on education level is provided.
+- Experience: Analyzes the relationship between years of experience and salary.
 
 ### Images of the Dashboard
 
