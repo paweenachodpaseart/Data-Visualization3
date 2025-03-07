@@ -13,8 +13,7 @@ Experience: Analyzes the relationship between years of experience and salary.
 
 Here are images showcasing the Dashboard:
 
-<img src="https://github.com/user-attachments/assets/4b7f2490-d6ec-4b7e-8b0d-11303d243a04" width="500" />
-<img src="https://github.com/user-attachments/assets/83f4e829-f72e-46d8-8ddd-bcb0f15633aa" width="500" />
+<img src="https://github.com/paweenachodpaseart/Data-Visualization3/blob/main/Salary_Data.png?raw=true" width="500" />
 
-[See more](https://github.com/paweenachodpaseart/Data-Visualization2/blob/main/Pollution%20Complaint%20Analysis%20Dashboard.pbix)
-### 🛠️ Tool: PowerBI
+[See more](https://lookerstudio.google.com/reporting/6b6f08ab-538d-42d8-8283-e90cd9518e26)
+### 🛠️ Tool: lookerstudio
